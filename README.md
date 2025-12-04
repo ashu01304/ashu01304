@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🧑‍💻 Focused on **C++**, **python**, and **MERN** development  
-- 🔍 Interested in system design, trading tech, and performance-oriented coding  
+- 🔍 Interested in system design, trading tech, and performance-oriented coding, AI , ML  
 - 🎓 Engineering student ai IIT Patna, building real-world, production-ready projects  
 
 ---
@@ -11,7 +11,7 @@
 **Languages:** C++, JavaScript, Python 
 **Frontend:** React, HTML, CSS, Tailwind  
 **Backend:** Node.js, Express, MongoDB, Firebase  
-**Tools:** Git, VS Code, Docker  
+**Tools:** Git, VS Code, Docker, Ollama
 
 ---
 
