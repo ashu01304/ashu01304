@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm **Aashutosh** 👋
 
-<!--
-**ashu01304/ashu01304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🧑‍💻 Focused on **C++**, **python**, and **MERN** development  
+- 🔍 Interested in system design, trading tech, and performance-oriented coding  
+- 🎓 Engineering student ai IIT Patna, building real-world, production-ready projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+**Languages:** C++, JavaScript, Python 
+**Frontend:** React, HTML, CSS, Tailwind  
+**Backend:** Node.js, Express, MongoDB, Firebase  
+**Tools:** Git, VS Code, Docker  
+
+---
+
+## 📫 Contact
+- **Email:** aashutoshgandhi13@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/aashutosh-gandhi-0127011b0/  
+- **GitHub:** https://github.com/ashu01304  
+
+---
+
+### ⭐ If you like my work, consider starring my repositories!
