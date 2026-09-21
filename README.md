@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🧑‍💻 Focused on **C++**, **python**, and **MERN** development  
 - 🔍 Interested in system design, trading tech, and performance-oriented coding, AI , ML  
-- 🎓 Engineering student ai IIT Patna, building real-world, production-ready projects  
+- 🎓 Engineering student at IIT Patna, building real-world, production-ready projects  
 
 ---
 
